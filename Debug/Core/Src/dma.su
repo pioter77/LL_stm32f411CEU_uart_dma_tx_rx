@@ -1,0 +1,13 @@
+core_cm4.h:1676:26:__NVIC_GetPriorityGrouping	4	static
+core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+core_cm4.h:1863:26:NVIC_EncodePriority	40	static
+stm32f4xx_ll_dma.h:609:26:LL_DMA_GetDataTransferDirection	16	static
+stm32f4xx_ll_dma.h:959:22:LL_DMA_SetDataLength	24	static
+stm32f4xx_ll_dma.h:1393:22:LL_DMA_ConfigAddresses	24	static
+stm32f4xx_ll_dma.h:2557:22:LL_DMA_EnableIT_TE	16	static
+stm32f4xx_ll_dma.h:2577:22:LL_DMA_EnableIT_TC	16	static
+stm32f4xx_ll_bus.h:411:22:LL_AHB1_GRP1_EnableClock	24	static
+stm32f4xx_ll_usart.h:2382:26:LL_USART_DMA_GetRegAddr	16	static
+dma.c:38:6:MX_DMA_Init	8	static
+dma.c:56:6:ConfigDMA	24	static
